@@ -13,7 +13,7 @@ Users can delete their account directly from within the app by following these s
 3. Select **Delete Account**.
 4. Confirm your request when prompted.
 
-Once confirmed, the deletion process starts immediately.
+Once confirmed, the deletion request is made. An admin will confirm the request and ensure all outstanding orders are filfilled then delete the account.
 
 ---
 
